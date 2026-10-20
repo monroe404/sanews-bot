@@ -1,0 +1,14 @@
+{
+  "name": "san-news-bot",
+  "version": "1.0.0",
+  "description": "San Andreas News Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1",
+    "better-sqlite3": "^12.2.0"
+  }
+}
