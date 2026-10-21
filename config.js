@@ -3,9 +3,9 @@ require("dotenv").config();
 module.exports = {
     TOKEN: process.env.DISCORD_TOKEN,
 
-    CLIENT_ID: process.env.CLIENT_ID,
+    CLIENT_ID: 1562081125671637083,
 
-    GUILD_ID: process.env.GUILD_ID,
+    GUILD_ID: 1562042193710022727,
 
     STAFF_ROLE_ID: process.env.STAFF_ROLE_ID
 };
