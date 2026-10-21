@@ -7,5 +7,5 @@ module.exports = {
 
     GUILD_ID: 1562042193710022727,
 
-    STAFF_ROLE_ID: process.env.STAFF_ROLE_ID
+    STAFF_ROLE_ID: 1562083017390821376
 };
